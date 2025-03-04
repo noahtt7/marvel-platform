@@ -805,6 +805,15 @@
             "label": "Professional & Continuing Education"
           }
         ]
+      },
+      {
+        "label": "Quiz Description",
+        "multiline": true,
+        "name": "quiz_description",
+        "placeholder": "Enter a detailed quiz description",
+        "rows": 3,
+        "tooltip": "Provide a comprehensive description of the quiz, including any specific requirements or guidelines for the quiz generation.",
+        "type": "text"
       }      
     ],
     "logo": "https://firebasestorage.googleapis.com/v0/b/kai-ai-f63c8.appspot.com/o/QuizifyLogo.png?alt=media&token=9bf1d066-fba4-4063-9640-ef732e237d31",
