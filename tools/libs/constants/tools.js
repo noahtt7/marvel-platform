@@ -3,7 +3,6 @@ const TOOLS_ID = {
   FLASHCARDS_GENERATOR: 'flashcard-generator',
   WORKSHEET_GENERATOR: 'worksheet-generator',
   SYLLABUS_GENERATOR: 'syllabus-generator',
-  WRITING_FEEDBACK_GENERATOR: 'writing-feedback-generator',
 };
 
 export { TOOLS_ID };
